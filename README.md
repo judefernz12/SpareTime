@@ -81,7 +81,7 @@ If you'd like to fix a bug, improve a feature, or propose something new:
 3. ✅ Make your changes  
 4. 🔁 Submit a pull request  
 
-> For major changes, please [open an issue](https://github.com/yourusername/sparetime/issues) first to discuss.
+> For major changes, please [open an issue](https://github.com/judefernz12/sparetime/issues) first to discuss.
 
 ---
 
